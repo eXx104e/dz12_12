@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labik13", "dz12_12\labik13.csproj", "{F3AB6DF5-15C8-4DB2-ACA6-542191038D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labik14", "labik14\labik14.csproj", "{8CE64A5C-59DB-4A21-863A-0451C49CC589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3AB6DF5-15C8-4DB2-ACA6-542191038D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AB6DF5-15C8-4DB2-ACA6-542191038D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AB6DF5-15C8-4DB2-ACA6-542191038D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AB6DF5-15C8-4DB2-ACA6-542191038D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE64A5C-59DB-4A21-863A-0451C49CC589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE64A5C-59DB-4A21-863A-0451C49CC589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE64A5C-59DB-4A21-863A-0451C49CC589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE64A5C-59DB-4A21-863A-0451C49CC589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001D0572-5B0D-4772-A944-66148062003A}
+	EndGlobalSection
+EndGlobal
